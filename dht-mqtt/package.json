@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "author": "API FORGE S.R.L.",
+  "version": "1.0.0",
+  "description": "MQTT Example with a DHT sensor for Beeno using Node.js.",
+  "license": "Apache-2.0",
+  "main": "dht_mqtt.js",
+  "name": "beeno-dht-mqtt-sample",
+  "homepage": "https://beeno.it",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/api-forge/beeno-samples.git"
+  },
+  "dependencies": {
+    "mqtt": "^4.2.6",
+    "node-dht-sensor": "^0.4.3"
+  }
+}
