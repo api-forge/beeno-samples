@@ -1,8 +1,8 @@
-# Beeno samples for Node.js
+# Beeno samples for embedded boards
 
-Beeno is a platform for managing and monitoring your IoT solutions
+[Beeno](https://beeno.it) is a monitoring and analysis platform for your IoT solutions
 
-Read more about Beeno and these samples on our [documentation page](https://beeno.it/docs).
+This repository contains code samples that can be used on embedded devices to quickly read sensor data and send it to Beeno
 
 ## Quickstart
 
@@ -19,22 +19,7 @@ Read more about Beeno and these samples on our [documentation page](https://been
 git clone https://github.com/api-forge/beeno-samples.git
 ```
 
-### Move into one of the sample directories
+## Follow one of the guides in Docs
 
-```
-cd dht-mqtt
-```
-
-### Install the dependencies
-
-```
-npm install
-```
-
-### Run the sample (you may need to use sudo to be able to read board sensors)
-```
-sudo node dht-mqtt.js
-```
-
-## Next steps
-For a more detailed guide on how to get everything up and running check [our guides](https://beeno.it/docs/how-to-guides/connect-an-rpi-to-beeno)
+- [Raspberry Pi](https://beeno.it/docs/how-to-guides/connect-an-rpi-to-beeno)
+- [ESP32](https://beeno.it/docs/how-to-guides/connect-an-esp32-to-beeno)
