@@ -21,5 +21,5 @@ git clone https://github.com/api-forge/beeno-samples.git
 
 ## Follow one of the guides in Docs
 
-- [Raspberry Pi](https://beeno.it/docs/how-to-guides/connect-an-rpi-to-beeno)
-- [ESP32](https://beeno.it/docs/how-to-guides/connect-an-esp32-to-beeno)
+- [Raspberry Pi](https://beeno.it/docs/how-to-guides/connect-a-rpi-3-to-beeno/using-javascript-nodejs)
+- [ESP32](https://beeno.it/docs/how-to-guides/connect-an-esp32-to-beeno/using-c)
